@@ -1,6 +1,6 @@
 {
   "name": "@nbsdev/nucleo-logger",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Logger for Node.js. Written in TypeScript",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
